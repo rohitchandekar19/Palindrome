@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PalindromeApplication</string>
+    <string name="enter_text_to_validate_palindrome">Enter text to validate palindrome</string>
+    <string name="valid_palindrome">Entered string is palindrome.</string>
+    <string name="not_valid_palindrome">Entered string is not a palindrome.</string>
+    <string name="empty_error">Please check, input should not empty.</string>
+    <string name="validate_palindrome">Validate Palindrome</string>
+</resources>
